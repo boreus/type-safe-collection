@@ -1,5 +1,5 @@
 {
-    "name": "jcrowe/type-safe-collection",
+    "name": "boreus/type-safe-collection",
     "description": "A thin wrapper around Illuminate/Collection that allows for enforcing type constraints on the collection elements",
     "license": "MIT",
     "require": {
@@ -22,6 +22,10 @@
         {
             "name": "Jonathan Crowe",
             "email": "jcrowe206@gmail.com"
+        },
+        {
+            "name": "Boris de Wilde",
+            "email": "boreus@gmail.com"
         }
     ],
     "minimum-stability": "dev",
